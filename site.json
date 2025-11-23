@@ -65,6 +65,22 @@
         "images": [],
         "videos": []
       }
+    },
+    {
+      "id": "item-bba7eee7-ee36-4c79-ab73-513e04b756eb",
+      "indent": 0,
+      "location": "pages/item-bba7eee7-ee36-4c79-ab73-513e04b756eb/index.html",
+      "slug": "page-1",
+      "order": 2,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1763893250,
+        "updated": 1763893250,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
