@@ -1,0 +1,86 @@
+{
+  "id": "d981b3ea-0a43-4a44-9369-511370e6eefe",
+  "title": "evaluasi",
+  "author": "",
+  "description": "own course",
+  "license": "by-sa",
+  "metadata": {
+    "author": {},
+    "site": {
+      "name": "evaluasi",
+      "logo": "assets/banner.jpg",
+      "settings": {
+        "lang": "en-US",
+        "publishPagesOn": true,
+        "canonical": true
+      },
+      "created": 1763893183,
+      "updated": 1763893183,
+      "git": {
+        "vendor": "github",
+        "branch": "gh-pages"
+      }
+    },
+    "theme": {
+      "element": "custom-evaluasi-theme",
+      "path": "./custom/build/custom.es6.js",
+      "name": "CustomEvaluasiTheme"
+    },
+    "node": {
+      "fields": {}
+    },
+    "build": {
+      "version": "11.0.5",
+      "structure": "course",
+      "type": "own"
+    }
+  },
+  "items": [
+    {
+      "id": "item-502b3ab7-2c42-4418-9a79-3c81d365aaa8",
+      "indent": 0,
+      "location": "pages/item-502b3ab7-2c42-4418-9a79-3c81d365aaa8/index.html",
+      "slug": "welcome",
+      "order": 0,
+      "parent": null,
+      "title": "Welcome to evaluasi",
+      "description": "",
+      "metadata": {
+        "created": 1763893182,
+        "updated": 1763893182
+      }
+    },
+    {
+      "id": "item-c5f7bcd4-13fb-4770-a6de-bc7f4065ce68",
+      "indent": 0,
+      "location": "pages/item-c5f7bcd4-13fb-4770-a6de-bc7f4065ce68/index.html",
+      "slug": "page",
+      "order": 1,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1763893232,
+        "updated": 1763893232,
+        "images": [],
+        "videos": []
+      }
+    },
+    {
+      "id": "item-bba7eee7-ee36-4c79-ab73-513e04b756eb",
+      "indent": 0,
+      "location": "pages/item-bba7eee7-ee36-4c79-ab73-513e04b756eb/index.html",
+      "slug": "page-1",
+      "order": 2,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1763893250,
+        "updated": 1763893250,
+        "images": [],
+        "videos": []
+      }
+    }
+  ]
+}
